@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.068efe1d.chunk.css",
+    "main.js": "/static/js/main.e3265df6.chunk.js",
+    "main.js.map": "/static/js/main.e3265df6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e7f47d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e7f47d3.js.map",
+    "static/js/2.5c04f53d.chunk.js": "/static/js/2.5c04f53d.chunk.js",
+    "static/js/2.5c04f53d.chunk.js.map": "/static/js/2.5c04f53d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.068efe1d.chunk.css.map": "/static/css/main.068efe1d.chunk.css.map",
+    "static/js/2.5c04f53d.chunk.js.LICENSE.txt": "/static/js/2.5c04f53d.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/static/media/Nike-Air-Max.17bfa65e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e7f47d3.js",
+    "static/js/2.5c04f53d.chunk.js",
+    "static/css/main.068efe1d.chunk.css",
+    "static/js/main.e3265df6.chunk.js"
+  ]
+}
